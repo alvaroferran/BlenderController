@@ -14,3 +14,12 @@ To execute the controller first upload the arduino code into the board. Then in 
 <p align="center">
 <img src="Screenshot.png" >
 </p>
+
+<br><br>
+This project is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+
+
+<p align="center">
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" >
+</p>
