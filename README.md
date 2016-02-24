@@ -14,6 +14,8 @@ To execute the controller first upload the arduino code into the board. Then in 
 <p align="center">
 <img src="Screenshot.png" >
 </p>
+The arm used in this project is available <a href="https://github.com/bqlabs/M1R0">here</a>:
+
 
 <br><br>
 This project is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
